@@ -1,3 +1,3 @@
 # Demo
 This is my first repository.
-Author- Kashish Bilala 
+Author- Kashish Bilala (demo)
